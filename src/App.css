@@ -1,0 +1,10 @@
+.sample-canvas {
+  border: 2px solid black
+}
+
+.upper-canvas{
+  height: 500vh;
+}
+.lower-canvas{
+  height: 500vh;
+}
